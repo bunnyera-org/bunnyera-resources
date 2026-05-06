@@ -1,0 +1,54 @@
+{
+  "id": "momo-expression-pack",
+  "name": "Momo Expression Pack",
+  "version": "1.0.0",
+  "description": "AI generation workflow definition for BunnyEra Momo IP character expressions.",
+  "outputDir": "generated/momo",
+  "character": {
+    "name": "Momo",
+    "role": "BunnyEra official IP character and mascot",
+    "style": "cute soft 3D kawaii white bunny with long floppy ears, pink blush, small pink bow, glossy eyes, clean pastel style"
+  },
+  "assets": [
+    {
+      "id": "momo-happy",
+      "filename": "momo-happy.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, glossy eyes, and a happy smiling expression. Clean white background, centered full-body mascot, no text."
+    },
+    {
+      "id": "momo-wave",
+      "filename": "momo-wave.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, glossy eyes, waving hello with a friendly smile. Clean white background, centered full-body mascot, no text."
+    },
+    {
+      "id": "momo-thinking",
+      "filename": "momo-thinking.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, glossy eyes, one paw touching the chin in a thinking pose. Clean white background, centered full-body mascot, no text."
+    },
+    {
+      "id": "momo-surprised",
+      "filename": "momo-surprised.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, glossy eyes, surprised expression with small open mouth and raised paws. Clean white background, centered full-body mascot, no text."
+    },
+    {
+      "id": "momo-working-laptop",
+      "filename": "momo-working-laptop.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, glossy eyes, using a small pink laptop with a focused friendly expression. Clean white background, centered full-body mascot, no text."
+    },
+    {
+      "id": "momo-sleeping",
+      "filename": "momo-sleeping.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, sleeping peacefully with closed eyes. Clean white background, centered mascot, no text."
+    },
+    {
+      "id": "momo-love",
+      "filename": "momo-love.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, heart-shaped loving expression, warm and adorable. Clean white background, centered full-body mascot, no text."
+    },
+    {
+      "id": "momo-confused",
+      "filename": "momo-confused.png",
+      "prompt": "Create BunnyEra Momo, a cute soft 3D white bunny mascot with long floppy ears, pink blush, small pink bow, confused expression with curious eyes and tilted head. Clean white background, centered full-body mascot, no text."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+.env
+.env.local
+node_modules/
+dist/
+build/
+
+# Do not commit large AI model files
+*.gguf
+*.safetensors
+*.bin
+*.onnx
+*.pt
+*.pth
+*.ckpt

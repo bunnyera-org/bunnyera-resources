@@ -1,0 +1,60 @@
+{
+  "id": "system-icon-pack",
+  "name": "BunnyEra System Icon Pack",
+  "version": "1.0.0",
+  "description": "AI generation workflow definition for BunnyEra system and product icons.",
+  "outputDir": "generated/icons",
+  "style": {
+    "visualStyle": "modern dark futuristic app icon, rounded square, clean 3D or vector-like design, neon cyan and emerald accents, premium technology brand style",
+    "background": "dark navy or black gradient",
+    "rules": [
+      "no text",
+      "centered icon",
+      "high contrast",
+      "clean silhouette",
+      "suitable for app icon and dashboard UI"
+    ]
+  },
+  "assets": [
+    {
+      "id": "bunnyera-console-icon",
+      "filename": "bunnyera-console-icon.png",
+      "prompt": "Create a BunnyEra Console app icon: dark rounded-square background, futuristic AI dashboard symbol, neon cyan and emerald accents, clean premium technology style, no text."
+    },
+    {
+      "id": "bunnyera-2fa-icon",
+      "filename": "bunnyera-2fa-icon.png",
+      "prompt": "Create a BunnyEra2FA app icon: dark rounded-square background, glowing shield and lock symbol, neon cyan and emerald accents, secure authenticator style, no text."
+    },
+    {
+      "id": "bunnyera-ai-icon",
+      "filename": "bunnyera-ai-icon.png",
+      "prompt": "Create a BunnyEra AI app icon: dark rounded-square background, glowing neural brain or AI core symbol, neon cyan and emerald accents, futuristic clean style, no text."
+    },
+    {
+      "id": "bunnyera-claw-icon",
+      "filename": "bunnyera-claw-icon.png",
+      "prompt": "Create a BunnyEra Claw app icon: dark rounded-square background, robotic claw or automation engine symbol, neon cyan and emerald accents, powerful execution engine style, no text."
+    },
+    {
+      "id": "bunnyera-browser-icon",
+      "filename": "bunnyera-browser-icon.png",
+      "prompt": "Create a BunnyEra Browser app icon: dark rounded-square background, browser window and cursor automation symbol, neon cyan and emerald accents, AI browser automation style, no text."
+    },
+    {
+      "id": "bunnyera-cloud-icon",
+      "filename": "bunnyera-cloud-icon.png",
+      "prompt": "Create a BunnyEra Cloud app icon: dark rounded-square background, cloud network symbol, neon cyan and emerald accents, secure cloud technology style, no text."
+    },
+    {
+      "id": "bunnyera-security-icon",
+      "filename": "bunnyera-security-icon.png",
+      "prompt": "Create a BunnyEra Security app icon: dark rounded-square background, shield, scan, and protection symbol, neon cyan and emerald accents, cyber security style, no text."
+    },
+    {
+      "id": "bunnyera-workflows-icon",
+      "filename": "bunnyera-workflows-icon.png",
+      "prompt": "Create a BunnyEra Workflows app icon: dark rounded-square background, connected nodes and automation flow symbol, neon cyan and emerald accents, workflow automation style, no text."
+    }
+  ]
+}

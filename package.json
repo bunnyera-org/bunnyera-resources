@@ -1,0 +1,21 @@
+{
+  "name": "bunnyera-resources",
+  "version": "1.0.0",
+  "description": "BunnyEra official brand resources and AI asset automation repository.",
+  "type": "module",
+  "scripts": {
+    "classify": "node scripts/classify-assets.js",
+    "index": "node scripts/generate-resource-index.js",
+    "assets": "npm run classify && npm run index"
+  },
+  "keywords": [
+    "bunnyera",
+    "resources",
+    "brand-assets",
+    "momo",
+    "icons",
+    "ai-assets"
+  ],
+  "author": "BunnyEra",
+  "license": "MIT"
+}
